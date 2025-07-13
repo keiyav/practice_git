@@ -24,7 +24,7 @@ source $HOME/.keychain/$(hostname)-sh
 
 Dev Container 側で git config の設定
 
-```
+```bash
 git config user.name hoge
 git config user.email aaa@example.com
 ```
